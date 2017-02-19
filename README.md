@@ -1,2 +1,2 @@
-# hello-word
-it is my word
+# hello-world
+it is my wold
